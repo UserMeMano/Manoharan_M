@@ -7,7 +7,7 @@
 ---
 
 ## 💼 Professional Summary  
-Highly experienced **Senior Software Engineer** with **11+ years** of hands-on experience across **frontend development, DevOps, and IT infrastructure management**. Specialized in building pixel-perfect, cross-platform UIs with **React Native and ReactJS**, and developing scalable enterprise applications. Skilled in **full-cycle software development, microservices, CI/CD, cloud platforms (Azure, AWS, GCP), and monitoring solutions**. Adept at delivering **secure, high-performing applications** with a strong focus on **automation, optimization, and system reliability**.  
+Highly experienced **Senior Technical Lead - Software Engineer** with **12+ years** of hands-on experience across **frontend development, DevOps, and IT infrastructure management**. Specialized in building pixel-perfect, cross-platform UIs with **React Native and ReactJS**, and developing scalable enterprise applications. Skilled in **full-cycle software development, microservices, CI/CD, cloud platforms (Azure, AWS, GCP), and monitoring solutions**. Adept at delivering **secure, high-performing applications** with a strong focus on **automation, optimization, and system reliability**.  
 
 ---
 
